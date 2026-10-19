@@ -1,0 +1,33 @@
+.usage-header {
+    font-weight: bold;
+    padding-top: 4px;
+}
+
+.usage-info {
+    font-size: 0.9em;
+    color: #bbb;
+}
+
+.usage-bar-row {
+    padding: 2px 0 6px 0;
+    spacing: 4px;
+}
+
+.usage-bar-title {
+    font-size: 0.9em;
+}
+
+.usage-bar-value {
+    font-size: 0.9em;
+    font-weight: bold;
+}
+
+.usage-bar-detail {
+    font-size: 0.8em;
+    color: #999;
+}
+
+.usage-panel-gap {
+    padding: 0 4px;
+    opacity: 0.5;
+}

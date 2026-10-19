@@ -1,0 +1,7 @@
+{
+  "uuid": "harness-usage@dchadwick.local",
+  "name": "Harness Usage",
+  "description": "Show your Codex CLI and OpenCode Go subscription usage in the top panel: the remaining percentage of each plan's tightest rate-limit window, with per-window bars, reset countdowns and plan details in the menu. Read from local state; the only network call is the OpenCode Go quota lookup.",
+  "shell-version": ["45", "46", "47", "48", "49", "50"],
+  "url": "https://github.com/shaggyd/gnome-gentic"
+}
